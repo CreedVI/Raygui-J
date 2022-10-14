@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/CreedVI/Raylib-J/blob/main/raygui-j.png" width=256>
+<img align="left" src="https://raw.githubusercontent.com/CreedVI/Raygui-J/main/raygui-j.png" width=256>
 
 # Raygui-J
 A handmade version of Raygui for Raylib-J.

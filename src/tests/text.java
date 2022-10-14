@@ -11,6 +11,7 @@ public class text {
     static Raygui rgui;
 
     static TextBox textBox;
+    static String userText;
 
     public static void main(String[] args) {
         rlj = new Raylib(800, 600, "rGUI - Textbox");
@@ -28,7 +29,7 @@ public class text {
     }
 
     private static void Update() {
-
+    	userText = textBox.text;
     }
 
     private static void Render() {

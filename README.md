@@ -46,8 +46,7 @@ Only the default icons are currently supported.
 
 The following code is an example of how to retrieve user text from a TextBox.
 
-```
-Java
+```java
 
 package tests;
 
